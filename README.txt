@@ -1,9 +1,9 @@
 My Personal Website that I have developed and designed using HTML, CSS and JavaScript.
 
 Credits:
-    Code inspired by:
-        Editorial by HTML5 UP
-        html5up.net | @ajlkn
+    	Code inspired by:
+        	Editorial by HTML5 UP
+       		html5up.net | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
