@@ -2211,6 +2211,18 @@ button,
     color: #7f888f;
 }
 
+.timeline-item ul {
+    padding: 0em 1em;
+    margin: 0em;
+    font-size: 1.1em;
+    color: #7f888f;
+    list-style-position: outside;
+}
+
+.timeline-item li::marker {
+    font-size: 1rem;
+}
+
 .timeline-item p.no-before::before {
     content:none;
 }
